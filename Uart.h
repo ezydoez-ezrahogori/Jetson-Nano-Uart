@@ -6,7 +6,7 @@
 const char *uart_target = "/dev/ttyTHS1";
 #define NSERIAL_CHAR   256
 #define VMINIX         1
-#DEFINE BAUDRATE       B115200
+#define BAUDRATE       B115200
 
 class Uart {
 private:
